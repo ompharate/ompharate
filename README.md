@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=GitHub&link=https://github.com/yourusername" alt="GitHub Badge">
   </a>
   <a href="https://www.instagram.com/ompharate_11">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&link=https://www.instagram.com/yourusername" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/ompharate-blue?logo=instagram" alt="Instagram Badge">
   </a>
   <a href="https://www.linkedin.com/in/ompharate11">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/yourusername/" alt="LinkedIn Badge">
