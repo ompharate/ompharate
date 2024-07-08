@@ -2,10 +2,10 @@
 <p>I'm currently a student at <strong><a href="https://www.isquareit.edu.in/"> i2it Pune.</a></strong>I've been busy working on some side projects, learning a couple of new programming languages, and sharpening my Next.js skills. It's been a mix of coding, debugging, and constant learning.</p>
 <p>
   <a href="https://www.naukri.com/code360/profile/ompharate">
-    <img src="https://img.shields.io/badge/-Coding%20Ninjas-F16436?style=flat-square&labelColor=F16436&logo=Coding-Ninjas&link=https://www.codingninjas.com" alt="Coding Ninjas Badge">
+    <img src="https://img.shields.io/badge/codingninjas-blue?logo=codingninjas" alt="Coding Ninjas Badge">
   </a>
   <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://leetcode.com" alt="LeetCode Badge">
+    <img src="https://img.shields.io/badge/leetcode-blue?logo=leetcode" alt="LeetCode Badge">
   </a>
   <a href="https://leetcode.com/ompharate">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&labelColor=181717&logo=GitHub&link=https://github.com/yourusername" alt="GitHub Badge">
