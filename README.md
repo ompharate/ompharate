@@ -19,7 +19,7 @@
 </p>
 
 <p>🖥️ Remember to optimize your code for efficiency and readability. 📝</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://i.giphy.com/fmkYSBlJt3XjNF6p9c.webp" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/ompharate/creator-academy">CreatorAcademy</a>.</li>
