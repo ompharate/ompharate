@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://www.ompharate.tech">om Pharate</a></h2>
+<h2>Hey 👋, I'm <a href="https://www.ompharate.tech">Om Pharate</a></h2>
 <p>I'm currently a student at <strong><a href="https://www.isquareit.edu.in/"> I2IT Pune.</a></strong> I've been busy working on some side projects, learning a couple of new programming languages, and sharpening my Next.js skills. It's been a mix of coding, debugging, and constant learning.</p>
 <p>
   <a href="https://www.naukri.com/code360/profile/ompharate">
