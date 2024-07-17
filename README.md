@@ -57,4 +57,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ompharate&show_icons=true&count_private=true" alt="ompharate" />
-<p><a href="http://hits.dwyl.com/ompharate/ompharate/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/ompharate/ompharate/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
+
