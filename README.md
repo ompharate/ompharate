@@ -25,7 +25,6 @@
 <li>🔭 I’m currently working on <a href="https://github.com/ompharate/creator-academy">CreatorAcademy</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ompharate">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
