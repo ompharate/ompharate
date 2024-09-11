@@ -19,7 +19,7 @@
 </p>
 
 <p>🖥️ Remember to optimize your code for efficiency and readability. 📝</p>
-<img align="right" src="https://i.giphy.com/fmkYSBlJt3XjNF6p9c.webp" />
+<img align="right" width="200" height="200" src="https://i.giphy.com/fmkYSBlJt3XjNF6p9c.webp" />
 
 
 <h2>🚀 Some Tools I Use</h2>
