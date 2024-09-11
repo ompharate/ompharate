@@ -79,16 +79,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/iutkarsh077">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iutkarsh077&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iutkarsh077&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iutkarsh077&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iutkarsh077&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iutkarsh077&theme=2077" height="180em" />
+<a href="https://github.com/ompharate">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ompharate&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ompharate&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompharate&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ompharate&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompharate&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iutkarsh077&theme=xcode"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ompharate&theme=xcode"/>
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iutkarsh077=&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ompharate=&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
