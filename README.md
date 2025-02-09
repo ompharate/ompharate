@@ -1,6 +1,10 @@
 <h2>Hey 👋, I'm <a href="https://www.ompharate.tech">Om Pharate</a></h2>
 <p>I'm currently a student at <strong><a href="https://www.isquareit.edu.in/"> I2IT Pune.</a></strong> I've been working on full-stack building projects and contributing to open source. It's been a mix of coding, debugging, and constant learning.</p>
 <p>
+![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
+
+  </p>
+<p>
   <a href="https://www.naukri.com/code360/profile/ompharate">
     <img src="https://img.shields.io/badge/codingninjas-blue?logo=codingninjas" alt="Coding Ninjas Badge">
   </a>
