@@ -1,6 +1,6 @@
 # Hey 👋, I'm [Om Pharate](https://www.ompharate.tech)
 
-## AI Application Engineer | Full Stack Developer | DevOps Enthusiast
+## AI Application Engineer
 
 I'm a third-year student at [I2IT Pune](https://www.isquareit.edu.in/) and an AI Application Engineer specializing in building intelligent systems and integrating generative AI solutions into production environments. With expertise in microservices architecture, system design, and cloud infrastructure, I create scalable, resilient AI applications from concept to deployment.
 
