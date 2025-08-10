@@ -3,7 +3,7 @@
 🚀 **About Me**  
 I'm a Software Engineer and a final-year Computer Engineering student at the International Institute of Information Technology (I²IT), Pune.
 
-🔭 I’m currently building [Voxora](https://github.com/voxora-io).  
+🔭 I’m currently building [Voxora](https://github.com/voxora-cloud).  
 ⚡ I love building real-time systems and scalable backend infrastructure.
 
 🛠 **Technologies I Work With**  
