@@ -8,7 +8,7 @@ I'm a Software Engineer and a final-year Computer Engineering student at the Int
 
 🛠 **Technologies I Work With**  
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
-- **Backend:** Node.js, Python, GO, Express, MongoDB, PostgreSQL  
+- **Backend:** Node.js, Python, Express, MongoDB, PostgreSQL  
 - **DevOps:** Docker, AWS (EC2, S3, RDS, Lambda), Nginx  
 - **Real-time Systems:** WebSockets, WebRTC, Redis  
 - **AI & LLMs:** LangChain,Langgraph OpenAI, Pinecone
