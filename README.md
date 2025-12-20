@@ -1,7 +1,10 @@
 # Hi there, I'm Om Pharate 👋
 
 🚀 **About Me**  
-I'm a Software Engineer and a final-year Computer Engineering student at the International Institute of Information Technology (I²IT), Pune.
+Final-year **Computer Engineering student** at **I²IT, Pune**.  
+**Backend Engineer** specializing in **real-time systems** and **AI-powered SaaS platforms**.
+
+
 
 🔭 I’m currently building [Voxora](https://github.com/voxora-cloud).  
 ⚡ I love building real-time systems and scalable backend infrastructure.
