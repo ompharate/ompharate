@@ -2,7 +2,7 @@
 
 🚀 **About Me**  
 Final-year **Computer Engineering student** at **I²IT, Pune**.  
-**Backend Engineer** specializing in **real-time systems** and **AI-powered SaaS platforms**.
+**Backend Engineer** specializing in **real-time systems**
 
 
 
@@ -11,7 +11,7 @@ Final-year **Computer Engineering student** at **I²IT, Pune**.
 
 🛠 **Technologies I Work With**  
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
-- **Backend:** Node.js, Python, Express, MongoDB, PostgreSQL  
+- **Backend:** Go, Node.js, Python, Express, MongoDB, PostgreSQL  
 - **DevOps:** Docker, AWS (EC2, S3, RDS, Lambda), Nginx  
 - **Real-time Systems:** WebSockets, WebRTC, Redis  
 - **AI & LLMs:** LangChain,Langgraph OpenAI, Pinecone
