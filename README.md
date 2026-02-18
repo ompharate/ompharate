@@ -1,3 +1,3 @@
-⚡️ Engineering [Voxora](https://github.com/voxora-cloud/voxora) — a real-time AI communication infrastructure built for scale.  
+⚡️ Engineering [Voxora](https://github.com/voxora-cloud/voxora) — Voxora automates support, sales, and customer conversations using real-time AI voice and chat.
 
-🔭 I love designing real-time systems, distributed architectures, and scalable backend infrastructure that don’t break under pressure.
+🔭 I design real-time systems, distributed backends, and infrastructure built to survive production scale.
